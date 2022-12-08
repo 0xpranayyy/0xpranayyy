@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xpranayyy
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me : email me : 0xpranayy@gmail.com
+- 📫 Reach me : 0xpranayy@gmail.com
 
 <!---
 0xpranayyy/0xpranayyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
