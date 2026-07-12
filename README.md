@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=15&duration=3000&pause=1000&color=A1A1A6&center=true&vCenter=true&width=600&lines=building+pulseswipe;shipping+cricbet;TypeScript+%C2%B7+Solidity+%C2%B7+product" alt=""/>
 </p>
 
-&nbsp;&nbsp;I care about products that feel inevitable — fast, quiet, and obvious in hindsight.
+&nbsp;&nbsp;I care about products that feel inevitable fast, quiet, and obvious in hindsight.
 &nbsp;&nbsp;Currently building consumer experiences on top of crypto rails.
 
 <br/>
