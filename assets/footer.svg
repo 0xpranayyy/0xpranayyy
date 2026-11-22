@@ -1,7 +1,0 @@
-<svg width="1000" height="90" viewBox="0 0 1000 90" xmlns="http://www.w3.org/2000/svg">
-<rect width="1000" height="90" fill="#0A0A0B"></rect>
-<line x1="60" y1="30" x2="940" y2="30" stroke="#2C2C2E" stroke-width="1"></line>
-<text x="60" y="68" font-family="&#39;SF Mono&#39;, &#39;Cascadia Code&#39;, &#39;Fira Code&#39;, Consolas, monospace" font-size="14" font-weight="500" fill="#6E6E73" letter-spacing="3">gm<tspan fill="#30D158">.</tspan></text>
-<circle cx="93" cy="64" r="2.5" fill="#30D158"></circle>
-<text x="940" y="68" font-family="&#39;SF Mono&#39;, &#39;Cascadia Code&#39;, &#39;Fira Code&#39;, Consolas, monospace" font-size="14" font-weight="500" fill="#6E6E73" letter-spacing="3" text-anchor="end">© 2026 — SHIPPED FROM KOLKATA</text>
-</svg>
