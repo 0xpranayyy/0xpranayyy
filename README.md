@@ -25,13 +25,6 @@
   <img src="./assets/pulseswipe-light.svg" width="100%" alt="No. 01 — pulseswipe: swipe-first discovery for onchain markets">
 </picture>
 </a>
-<a href="https://github.com/0xpranayyy/cricbet">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cricbet-dark.svg">
-  <img src="./assets/cricbet-light.svg" width="100%" alt="No. 02 — cricbet: real-time cricket prediction markets">
-</picture>
-</a>
-
 <br/><br/>
 
 <picture>
